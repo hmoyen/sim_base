@@ -1,0 +1,6 @@
+[submodule "ardupilot"]
+	path = ardupilot
+	url = https://github.com/ArduPilot/ardupilot.git
+[submodule "gz_ws/ardupilot_gazebo"]
+	path = gz_ws/ardupilot_gazebo
+	url = https://github.com/khancyr/ardupilot_gazebo.git
